@@ -37,23 +37,4 @@ addAsync(10).then((sum) => {
 console.log("Ready for Next Job ...");
 
 
-//var DelayTime = 5000;
-//var Periode = 500;
-
-//setTimeout
-//(
-//    () =>
-//    {
-//        console.log('Delayed ...');
-//    }, DelayTime
-//);
-
-//setInterval
-//(
-//    () =>
-//    {
-//        console.log('Periodic ...');
-//    }, Periode
-//);
-
  
